@@ -35,7 +35,7 @@ Humble Bundle Library
 | Battlefield 3 | Origin | ❓ |
 | Battlestar Galactica Deadlock Season One | Steam | ✔ |
 | BATTLETECH + 2 DLCS | Steam | ❓ |
-| Bear With Me - Collector's Edition | Steam | ✔ |
+| Bear With Me - Collector's Edition | Steam | ❓ |
 | Beat Hazard 2 | Steam | ✔ |
 | Bejeweled™ 3 | Steam | ❓ |
 | BioShock | Steam | ❓ |
